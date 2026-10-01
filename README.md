@@ -44,11 +44,31 @@ Acelerador independente e não oficial para apoiar o desenvolvimento local de pr
 
 > O Accelerator preserva as atribuições e licenças dos componentes da Microsoft, OpenCode e demais terceiros em sua documentação e em `THIRD_PARTY_NOTICES.md`.
 
-## Experiência Aplicada
+## Consultoria, Modernização e IA Aplicada
 
-- **EVEN:** sanitização e otimização de infraestrutura, reduzindo custos e evitando migração forçada ou compra de hardware.
-- **Tokio Marine:** reutilização de dados para previsão, com impacto no custo operacional de precificação.
-- **Petrobras:** ETL com Databricks e construção de indicadores de segurança da informação com KQL e Power BI.
+Experiência em consultoria e liderança técnica de projetos de dados, conectando necessidades de negócio, desenho de soluções e implementação. Atuação em ambientes de saúde, varejo, indústria, seguros, construção e setor público.
+
+### Migração para Databricks com apoio de agentes
+
+Análise e priorização de um legado com aproximadamente **1.000 procedures e views**, utilizando Python e agentes de IA para apoiar entendimento, documentação e conversão. A iniciativa contribuiu para antecipar o cronograma de migração em **6 meses**.
+
+Desenho de pipelines orientados por metadados, centralizando regras de negócio e ampliando a rastreabilidade das cargas na arquitetura Bronze, Silver e Gold.
+
+### Agentes de IA no ciclo de desenvolvimento
+
+Aplicação de **OpenCode e agentes de código** à análise de legados, documentação técnica, desenvolvimento e testes. Estruturação de fluxos de trabalho com revisão e validação das entregas, além de workshops para adoção pelas equipes.
+
+### Arquitetura e governança de dados
+
+Desenho e sustentação de plataformas com **PostgreSQL, MinIO, Airflow, Superset e Power BI**, integrando fontes e organizando dados para consumo analítico. Foco em modelagem, documentação, qualidade e manutenção das soluções.
+
+### BI e confiabilidade operacional
+
+Desenvolvimento e evolução de dashboards críticos, integração com dados SAP e automação de extrações e verificações de qualidade. Atuação em indicadores sazonais, pedidos, estoque e segurança da informação, reduzindo retrabalho e ampliando a visibilidade operacional.
+
+### Eficiência e liderança técnica
+
+Otimização de infraestrutura analítica, modernização de cargas para nuvem e reutilização de dados em processos de precificação. Experiência na formação e liderança de equipes de BI, relacionamento com áreas de negócio e condução de entregas até produção.
 
 ## Contato
 
